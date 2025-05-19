@@ -213,7 +213,7 @@
     <!-- Musik -->
     <audio id="bgMusic" loop>
       <source
-        src="NIKI - Youll Be in My Heart _ Lirik Terjemahan Indonesia.mp3"
+        src="NIKI.mp3"
         type="audio/mpeg"
       />
       Browser kamu tidak mendukung pemutar audio.
